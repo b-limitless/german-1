@@ -1,0 +1,135 @@
+Sure! Here's the job ad with each paragraph alternating between German and English for easier reading:
+
+---
+
+**German:**
+Software Architect Frontend Angular Nodejs (m/w/d) Bundesweit oder Frankfurt a.M. (Festanstellung, unbefristet) (bis zu 90.000€ p/A)
+
+**English:**
+Software Architect Frontend Angular Nodejs (m/f/d) Nationwide or Frankfurt a.M. (Permanent, indefinite) (up to €90,000 p/a)
+
+---
+
+**German:**
+Mein Klient gehört zu den Top-Adressen in der IT-Beratungswelt und fokussiert sich auf die Optimierung seiner Kerngeschäftsprozesse seiner Kunden. Durch den smarten Einsatz maßgeschneiderter IT-Lösungen unterstützt er seine Kunden dabei, das Beste aus ihrem Business und aktuellen Technologien herauszuholen.
+
+**English:**
+My client is one of the top addresses in the IT consulting world and focuses on optimizing their clients' core business processes. Through the smart use of customized IT solutions, they help their clients get the most out of their business and current technologies.
+
+---
+
+**German:**
+Im Bereich Softwarelösungen bewegst du dich zwischen den Themen Design und Entwicklung, dazu übernimmst du gerne Verantwortung für moderne Frontend-Applikationen? Du willst dort einsteigen, wo Zukunft programmiert und digitale Transformation angetrieben wird?
+
+**English:**
+In the field of software solutions, you move between design and development, and you like to take responsibility for modern frontend applications? Do you want to step in where the future is programmed and digital transformation is driven?
+
+---
+
+**German:**
+Du konzipierst und entwickelst komplexe, performante und bedienbare Frontendlösungen und bist ebenso für die Umsetzung verantwortlich.
+
+**English:**
+You design and develop complex, high-performance, and user-friendly frontend solutions and are also responsible for their implementation.
+
+---
+
+**German:**
+**Aufgaben:**
+
+- Du bewertest und entwirfst Frontend-Architekturen unter Berücksichtigung aktueller Standards und triffst Technologie-Entscheidungen.
+- Entwicklung von modernen, responsiven Frontends auf aktueller JavaScript-Plattform mit serviceorientierter Architektur.
+- Realisierung von Single-Page-Applications und mobilen Web-Applications.
+- Coaching von Entwicklerinnen und Entwicklern im Rahmen agiler Softwareentwicklung.
+- Agile Vorgehensweise bspw. nach Scrum zur effizienten Umsetzung von innovativen Web Frontends mit Hilfe von HTML/CSS/JavaScript.
+
+**English:**
+**Responsibilities:**
+
+- You evaluate and design frontend architectures considering current standards and make technology decisions.
+- Development of modern, responsive frontends on the current JavaScript platform with service-oriented architecture.
+- Implementation of single-page applications and mobile web applications.
+- Coaching developers within the framework of agile software development.
+- Agile approach, e.g., Scrum, for the efficient implementation of innovative web frontends using HTML/CSS/JavaScript.
+
+---
+
+**German:**
+**Anforderungen:**
+
+- Abgeschlossenes Studium der Informatik oder vergleichbare Qualifikation.
+- Relevante Berufserfahrung im Bereich Frontendentwicklung sowie in fachlicher Anforderungsanalyse und Konzeption.
+- Fundierte Kenntnisse und praktische Erfahrungen in der Software-Entwicklung in den Technologien JavaScript, HTML5, CSS3, AngularJS, JQuery, Bootstrap, NodeJS.
+- Solides Verständnis von Webtechnologien, Microservices, Restservices, Test Driven Development (TDD) sowie Behaviour Driven Development (BDD).
+- Analytisches Denken und Handeln sowie eine selbständige Arbeitsweise.
+- Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift.
+
+**English:**
+**Requirements:**
+
+- Completed degree in Computer Science or comparable qualification.
+- Relevant professional experience in frontend development as well as in technical requirements analysis and design.
+- Solid knowledge and practical experience in software development with technologies such as JavaScript, HTML5, CSS3, AngularJS, JQuery, Bootstrap, NodeJS.
+- Solid understanding of web technologies, microservices, REST services, test-driven development (TDD), and behavior-driven development (BDD).
+- Analytical thinking and action as well as an independent working style.
+- Very good German and English language skills, both spoken and written.
+
+---
+
+**German:**
+**Benefits:**
+
+- Gehalt bis zu 90.000€ p/A (je nach Erfahrung und Techstack).
+- Flexible Arbeitszeiten (bis zu 3 Tage Homeoffice).
+- Firmen Events.
+- Sportförderung.
+- Prämien für zusätzliches Engagement.
+- Hemden und Blusenreinigung.
+- 30 Tage Urlaub.
+- Umfangreiches Trainingsangebot und ein transparentes Laufbahnstufenmodell für alle sorgen dafür, dass deine Entwicklung bei uns nicht stillsteht.
+- Platz beim Wettbewerb „Deutschlands Beste Arbeitgeber in der ITK".
+
+**English:**
+**Benefits:**
+
+- Salary up to €90,000 p/a (depending on experience and tech stack).
+- Flexible working hours (up to 3 days of home office).
+- Company events.
+- Sports promotion.
+- Bonuses for additional commitment.
+- Shirt and blouse cleaning.
+- 30 days of vacation.
+- Extensive training opportunities and a transparent career level model for all ensure that your development with us does not stagnate.
+- Place in the competition "Germany's Best Employers in ITC."
+
+---
+
+**German:**
+**Kontakt:**
+
+Dann bewirb dich bitte mit deinem vollständigen Lebenslauf sowie arbeits- und berufsrelevanten Zeugnissen zu Händen an Andreas Steck per E-Mail an a.steck(at)computerfutures.de. Bei Fragen erreichst du mich unter 069 13385111. Ich freue mich auf deine Bewerbung!
+
+**English:**
+**Contact:**
+
+Please apply with your complete resume and work and professional certificates to Andreas Steck by email at a.steck(at)computerfutures.de. If you have any questions, you can reach me at 069 13385111. I look forward to your application!
+
+---
+
+**German:**
+Desired Skills and Experience: Javascript, Angular, Nodejs, JQuery, Frontend-Architekturen, Deutsch C1.
+
+**English:**
+Desired Skills and Experience: Javascript, Angular, Nodejs, JQuery, Frontend Architectures, German C1.
+
+---
+
+**German:**
+Die Personalberatung SThree betreut die ausgeschriebene Stelle im Auftrag ihres Kunden.
+
+**English:**
+The recruitment consultancy SThree manages the advertised position on behalf of its client.
+
+---
+
+Let me know if you'd like any further adjustments!
