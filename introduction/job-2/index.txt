@@ -1,0 +1,119 @@
+**Wer wir sind**  
+Wir sind ein buntes Team aus begeisterten Softwareentwicklern und Architekten, die gern über den Tellerrand hinausschauen und sich stetig weiterentwickeln.  
+
+**Who We Are**  
+We are a diverse team of passionate software developers and architects who love to think outside the box and continuously improve ourselves.
+
+---
+
+Als Software Architect wirst du in unserer Tribe-Organisation stetig gefordert und gefördert, hast die Möglichkeit, deine eigenen Ideen mit einzubringen und dich fachlich exorbitant schnell zu entwickeln.  
+
+As a Software Architect, you will be consistently challenged and supported in our tribe organization, have the opportunity to contribute your own ideas, and develop your skills at an exceptionally fast pace.
+
+---
+
+In Zusammenarbeit mit unseren Bestands- und Neukunden leben wir eine Community of Practice und pflegen intern eine kollegiale Firmenkultur in einem dynamischen Team. Unsere Stakeholder sind u.a. Project Leads, Product Owners, Business Analysts, Security Engineers, Operations Teams, Test Teams.  
+
+In collaboration with our existing and new customers, we foster a Community of Practice and maintain a collegial company culture within a dynamic team. Our stakeholders include Project Leads, Product Owners, Business Analysts, Security Engineers, Operations Teams, and Test Teams.
+
+---
+
+Häufig verwenden unsere Kunden und Projekte u.a. die Technologien Java / SpringBoot, JavaScript / TypeScript, KeyCloak, PostgreSQL, MongoDB, JMS, JSON, REST, Kafka, Quarkus, AWS, AZURE, GCP, Docker, K8S, Gitlab, Github, Maven, Terraform, Helm.  
+
+Our clients and projects frequently utilize technologies such as Java / SpringBoot, JavaScript / TypeScript, KeyCloak, PostgreSQL, MongoDB, JMS, JSON, REST, Kafka, Quarkus, AWS, AZURE, GCP, Docker, K8S, GitLab, GitHub, Maven, Terraform, and Helm.
+
+---
+
+### Was dich erwartet  
+- **Kreative Lösung technischer und konzeptioneller Herausforderungen und Steuerung der Umsetzungen.**  
+- **Verantwortung für das Solution Design von Software-Komponenten und Applikationslandschaften.**  
+- **Planen und Erstellen von Softwarearchitekturen, Modernisierung als auch Neuentwicklung, Mitwirkung in Bid Management Teams.**  
+- **Sicherstellen von nicht-funktionalen Anforderungen (state-of-the-art Qualitäts- und Sicherheitsstandards).**  
+- **Team-Coaching und Lead Position in Architektur, Design, Implementierung und Methodik.**  
+- **Hands-on Fullstack-Entwicklung mit Schwerpunkt WebServices/e-commerce.**  
+- **Interdisziplinäre Zusammenarbeit mit verschiedenen Stakeholdern.**  
+- **Erstellen von Architekturdokumentation, vorrangig mit arc42.**  
+- **Moderner Technologie-Stack im Java-, JavaScript-, Cloud- und DevOps-Umfeld und weitere vielfältige Technologien in spezifischen Projektkontexten.**  
+
+### What Awaits You  
+- **Creative solutions to technical and conceptual challenges and managing implementations.**  
+- **Responsibility for solution design of software components and application landscapes.**  
+- **Planning and creating software architectures, modernizing or developing new ones, and participating in bid management teams.**  
+- **Ensuring non-functional requirements (state-of-the-art quality and security standards).**  
+- **Team coaching and a lead role in architecture, design, implementation, and methodology.**  
+- **Hands-on full-stack development with a focus on web services/e-commerce.**  
+- **Interdisciplinary collaboration with various stakeholders.**  
+- **Creating architectural documentation, primarily with arc42.**  
+- **A modern technology stack in the Java, JavaScript, cloud, and DevOps environments, along with diverse technologies in specific project contexts.**
+
+---
+
+### Was wir von dir erwarten  
+- **Deutsch fließend in Wort und Schrift (C1), gute Englischkenntnisse.**  
+- **Abgeschlossenes Studium im Bereich Informatik oder adäquate Qualifikation.**  
+- **Mehrjährige einschlägige Berufserfahrung in der Software-Architektur und Software-Entwicklung.**  
+- **Fundierte Kenntnisse in der Spezifikation und Konzeption von Software-Architekturen (z. B. UML, DDD, OOA, OOD).**  
+
+### What We Expect from You  
+- **Fluent German (C1) in spoken and written form, good English skills.**  
+- **Completed studies in computer science or an equivalent qualification.**  
+- **Several years of relevant experience in software architecture and software development.**  
+- **Solid knowledge in specifying and designing software architectures (e.g., UML, DDD, OOA, OOD).**
+
+---
+// Start recording from here daily limit was exceeded tomorrow
+### Was wir dir bieten  
+- **Innovatives, modernes und anspruchsvolles Arbeitsumfeld mit flachen Hierarchien und der Möglichkeit, dich mit deinen eigenen Stärken individuell einzubringen.**  
+- **Langfristige berufliche Perspektiven.**  
+- **Attraktive Entlohnung.**  
+- **Flexible Arbeitszeiten und Home-Office.**  
+- **Modernes Arbeitsumfeld in coolen Büros, in denen wir auch auf deine Gesundheit achten, z. B. durch ergonomische Stühle, höhenverstellbare Tische und frisches Obst.**  
+- **Hochwertige Hardware deiner Wahl.**  
+- **Jährliche Weiterbildungen, die du selbst gestalten darfst (von Fachseminaren bis hin zur Teilnahme an internationalen Konferenzen).**  
+
+### What We Offer You  
+- **An innovative, modern, and challenging work environment with flat hierarchies and the opportunity to contribute your strengths individually.**  
+- **Long-term career prospects.**  
+- **Attractive compensation.**  
+- **Flexible working hours and remote work options.**  
+- **A modern workplace in cool offices, with a focus on your health, such as ergonomic chairs, height-adjustable desks, and fresh fruit.**  
+- **High-quality hardware of your choice.**  
+- **Annual training opportunities that you can design yourself (from specialized seminars to participation in international conferences).**
+
+---
+
+### Zahlreiche Benefits:  
+- **VGN-Firmenabo (Zuschuss öffentliche Verkehrsmittel).**  
+- **JobRad.**  
+- **Kinderbetreuungszuschuss.**  
+- **Corporate Benefits, Einkaufsrabatte, Sportrabatte (z. B. Compustore, Urban Sports uvm.).**  
+- **Zuschuss zur Betrieblichen Altersvorsorge / VWL.**  
+- **Getränke, Müsli, Obst am Arbeitsplatz.**  
+
+### Numerous Benefits:  
+- **VGN company subscription (subsidized public transport).**  
+- **JobRad (bike leasing).**  
+- **Childcare subsidy.**  
+- **Corporate benefits, shopping discounts, sports discounts (e.g., Compustore, Urban Sports, and more).**  
+- **Subsidies for occupational pension schemes/savings plans.**  
+- **Drinks, muesli, and fruit at the workplace.**
+
+---
+
+### Du fühlst dich angesprochen? Dann bewirb dich jetzt bei adorsys!  
+**Deine Ansprechpartner: Maria Hurtig, Personalreferentin.**  
+
+### Do you feel addressed? Then apply now at adorsys!  
+**Your contact: Maria Hurtig, HR Specialist.**
+
+---
+
+### Über uns  
+Wir entwickeln seit mehr als 10 Jahren individuelle Software für Banken und Versicherungen. Das tun wir, um unseren Kunden einen echten Wettbewerbsvorteil zu verschaffen. Unsere Teams begleiten die Klienten dabei von der ersten Idee bis zum fertigen Produkt. Ganz gleich, ob ein bestehender Service modernisiert werden soll oder die Lösung für ein neues Geschäftsmodell fehlt: Wir entwickeln Software für eine digitale Zukunft.  
+
+### About Us  
+For over 10 years, we have been developing custom software for banks and insurance companies. We do this to provide our clients with a true competitive advantage. Our teams support clients from the first idea to the finished product. Whether a service needs to be modernized or a solution for a new business model is missing, we develop software for a digital future.
+
+---
+
+If you need further assistance with learning, let me know! 😊

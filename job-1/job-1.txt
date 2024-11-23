@@ -50,7 +50,7 @@ You design and develop complex, high-performance, and user-friendly frontend sol
 - Development of modern, responsive frontends on the current JavaScript platform with service-oriented architecture.
 - Implementation of single-page applications and mobile web applications.
 - Coaching developers within the framework of agile software development.
-- Agile approach, e.g., Scrum, for the efficient implementation of innovative web frontends using HTML/CSS/JavaScript.
+- Agile approach, e.g., according to Scrum, for the efficient implementation of innovative web frontends using HTML/CSS/JavaScript.
 
 ---
 
